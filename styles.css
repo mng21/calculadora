@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedorGeneral {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url(fondoCalculadora.jfif);
+}
+
+.centrarContenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.estiloBotonnumerico{
+    background-color:aquamarine
+}
+
+.estiloBotonfuncion{
+    background-color:rgb(12, 202, 139)
+}
+
+.estiloBotonoperacion{
+    background-color: rgb(241, 248, 140);
+}
+
+.estiloBotonborrar{
+    background-color: rgb(252, 132, 84);
+}
+
