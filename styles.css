@@ -15,6 +15,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 .estiloBotonnumerico{
@@ -31,5 +32,12 @@
 
 .estiloBotonborrar{
     background-color: rgb(252, 132, 84);
+}
+
+.bordeSuperior {
+    border:solid;
+    border-color: rgb(253, 249, 249);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 
